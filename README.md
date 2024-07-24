@@ -1,5 +1,5 @@
-## Hi there 👋
-👋 Junior Developer | 🛠️ Systems Engineering | 📊 Big Data | 🐘 Hadoop | 🐍 Python | ☕ Java | 🎨 CSS | 🌐 HTML | 🅱️ Bootstrap | 🍃 MongoDB | 🚀 JavaScript
+## Electronic engineer 👋
+🛠️ C# | 📊 Blazor | 🐘 .NetMaui | 🐍 Windows Services | ☕ Java | 🎨 CSS | 🌐 HTML | 🅱️ Bootstrap | 🍃 MySQL | 🚀 JavaScript
 <!--
 **dhmarino/dhmarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
