@@ -1,6 +1,6 @@
-## Electronic engineer :atom:
+## :atom: Electronic engineer :atom:
 
-🛠️ C# | 📊 Blazor | 🐘 .NetMaui | 🐍 Windows Services | ☕ Java | 🎨 CSS | 🌐 HTML | 🅱️ Bootstrap | 🍃 MySQL | 🚀 JavaScript
+🛠️ C# | 📊 Blazor | :robot: .NetMaui | :gear: Windows Services | ☕ Java | 🎨 CSS | 🌐 HTML | 🅱️ Bootstrap | :dolphin: MySQL | 🚀 JavaScript
 <!--
 **dhmarino/dhmarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
